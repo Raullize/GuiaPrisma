@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=180&section=header&text=GuiaPrisma:+Conceitos+ao+Prisma&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=180&section=header&text=GuiaPrisma&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 # ⚙️ GuiaPrisma
 
