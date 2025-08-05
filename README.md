@@ -16,6 +16,11 @@ Bem-vindo ao GuiaPrisma, um recurso completo para aprender e dominar o Prisma OR
 10. [🛠️ Boas Práticas com Prisma](contents/boas-praticas.md)
 11. [🌿 Integração com Frameworks (Express, Next.js, etc)](contents/integracao-frameworks.md)
 12. [🔀 Performance e Otimização](contents/performance.md)
+13. [🔧 Troubleshooting: Problemas Comuns e Soluções](contents/troubleshooting.md)
+14. [💡 Exemplos Práticos: Projetos Completos](contents/exemplos-praticos.md)
+15. [⚖️ Comparação com Outros ORMs](contents/comparacao-orms.md)
+16. [🚀 Deploy e Produção](contents/deploy-producao.md)
+17. [🧪 Testing: Testando Aplicações com Prisma](contents/testing.md)
 
 <h2 id="introducao-ao-prisma"> 💻 Introdução ao Prisma</h2>
 
