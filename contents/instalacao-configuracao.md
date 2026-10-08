@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=header&animation=twinkling"/>
 
-# 🔧 Como Instalar e Configurar o Prisma
+# Como Instalar e Configurar o Prisma
 
 ## Pré-requisitos
 
@@ -38,9 +38,9 @@ npx prisma init
 ```
 
 Este comando criará:
-- 📁 `prisma/` - Diretório com arquivos do Prisma
-- 📄 `prisma/schema.prisma` - Schema principal
-- 📄 `.env` - Variáveis de ambiente
+- `prisma/` - Diretório com arquivos do Prisma
+- `prisma/schema.prisma` - Schema principal
+- `.env` - Variáveis de ambiente
 
 ## Configuração do Banco de Dados
 
@@ -245,6 +245,6 @@ DATABASE_URL="postgresql://user:pass@host:5432/db?sslmode=require"
 
 ---
 
-[🔙 Voltar ao índice principal](../README.md)
+[Voltar ao índice principal](../README.md)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=footer"/>

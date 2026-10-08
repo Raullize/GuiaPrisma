@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=header&animation=twinkling"/>
 
-# 🧑‍💻 CRUD com Prisma Client
+# CRUD com Prisma Client
 
 ## Configuração Inicial
 
@@ -715,6 +715,6 @@ async function createUser(data: unknown) {
 
 ---
 
-[🔙 Voltar ao índice principal](../README.md)
+[Voltar ao índice principal](../README.md)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=footer"/>

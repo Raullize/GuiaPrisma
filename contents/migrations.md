@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=header&animation=twinkling"/>
 
-# 📜 Migrations: Gerenciando o Banco de Dados
+# Migrations: Gerenciando o Banco de Dados
 
 ## O que são Migrations?
 
@@ -399,6 +399,6 @@ psql $DATABASE_URL < rollback_20231203140000.sql
 
 ---
 
-[🔙 Voltar ao índice principal](../README.md)
+[Voltar ao índice principal](../README.md)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=footer"/>

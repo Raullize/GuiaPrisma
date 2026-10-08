@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=header&animation=twinkling"/>
 
-# 🔧 Troubleshooting: Problemas Comuns e Soluções
+# Troubleshooting: Problemas Comuns e Soluções
 
 ## Problemas de Instalação e Configuração
 
@@ -586,6 +586,6 @@ npx prisma format
 
 ---
 
-[🔙 Voltar ao índice principal](../README.md)
+[Voltar ao índice principal](../README.md)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=footer"/>

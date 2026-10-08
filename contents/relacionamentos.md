@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=header&animation=twinkling"/>
 
-# 🎨 Relacionamentos e Associações
+# Relacionamentos e Associações
 
 ## Tipos de Relacionamentos
 
@@ -666,6 +666,6 @@ const result = await prisma.$transaction(async (tx) => {
 
 ---
 
-[🔙 Voltar ao índice principal](../README.md)
+[Voltar ao índice principal](../README.md)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=footer"/>

@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=header&animation=twinkling"/>
 
-# ⚡ Performance e Otimização
+# Performance e Otimização
 
 ## Otimização de Queries
 
@@ -778,6 +778,6 @@ CREATE INDEX idx_post_lookup ON Post (published, category_id, created_at);
 
 ---
 
-[🔙 Voltar ao índice principal](../README.md)
+[Voltar ao índice principal](../README.md)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=footer"/>

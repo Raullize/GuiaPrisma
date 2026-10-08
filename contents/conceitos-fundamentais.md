@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=header&animation=twinkling"/>
 
-# 🔍 Conceitos Fundamentais do Prisma
+# Conceitos Fundamentais do Prisma
 
 ## O que é um ORM?
 
@@ -112,6 +112,6 @@ const userWithPosts = await prisma.user.findUnique({
 
 ---
 
-[🔙 Voltar ao índice principal](../README.md)
+[Voltar ao índice principal](../README.md)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=footer"/>

@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=header&animation=twinkling"/>
 
-# 🚀 Exemplos Práticos: Projetos Completos
+# Exemplos Práticos: Projetos Completos
 
 ## Projeto 1: Blog API com Next.js
 
@@ -1465,6 +1465,6 @@ export class AvailabilityService {
 
 ---
 
-[🔙 Voltar ao índice principal](../README.md)
+[Voltar ao índice principal](../README.md)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=footer"/>

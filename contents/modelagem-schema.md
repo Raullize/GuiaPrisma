@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=header&animation=twinkling"/>
 
-# 📂 Modelagem de Dados com Prisma Schema
+# Modelagem de Dados com Prisma Schema
 
 ## Introdução ao Schema
 
@@ -427,6 +427,6 @@ model Comment {
 
 ---
 
-[🔙 Voltar ao índice principal](../README.md)
+[Voltar ao índice principal](../README.md)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=120&section=footer"/>
